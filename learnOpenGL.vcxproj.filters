@@ -29,9 +29,14 @@
     <ClInclude Include="shader_s.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="std_image.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="my_shader.vs" />
     <None Include="my_shader.fs" />
+    <None Include="my_texture.vs" />
+    <None Include="my_texture.fs" />
   </ItemGroup>
 </Project>

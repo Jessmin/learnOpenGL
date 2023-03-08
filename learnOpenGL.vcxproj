@@ -139,10 +139,13 @@
   <ItemGroup>
     <ClInclude Include="my_shader.hpp" />
     <ClInclude Include="shader_s.h" />
+    <ClInclude Include="std_image.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="my_shader.fs" />
     <None Include="my_shader.vs" />
+    <None Include="my_texture.fs" />
+    <None Include="my_texture.vs" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
