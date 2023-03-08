@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\workspace\OpenGL\learnOpenGL\main.cpp(37): warning C4715: “createWindow”: 不是所有的控件路径都返回值
+  learnOpenGL.vcxproj -> D:\workspace\OpenGL\learnOpenGL\x64\Debug\learnOpenGL.exe
